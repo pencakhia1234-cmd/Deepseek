@@ -2,11 +2,11 @@
   "id": "deepseek-v4-pro-nsfq",
   "name": "DeepSeek V4 Pro (NSFQ)",
   "version": "4.0.1",
-  "author": "YourName",
-  "description": "Tự động dịch thuật cao cấp dựa trên ngữ cảnh và dữ liệu collect.",
+  "author": "pencakhia1234-cmd",
+  "description": "Tự động dịch thuật theo ngữ cảnh NSFQ.",
   "host": ["*://*.fanqienovel.com/*", "*://*.truyenfull.vn/*"], 
-  "js": "https://raw.githubusercontent.com/pencakhia1234-cmd/Deepseek/refs/heads/main/main.js",
-  "css": "https://raw.githubusercontent.com/pencakhia1234-cmd/Deepseek/refs/heads/main/style.css",
+  "js": "https://raw.githubusercontent.com/pencakhia1234-cmd/Deepseek/main/main.js",
+  "css": "https://raw.githubusercontent.com/pencakhia1234-cmd/Deepseek/main/style.css",
   "settings": {
     "api_key": "",
     "mode": "NSFQ_Advanced"
