@@ -1,0 +1,14 @@
+{
+  "id": "deepseek-v4-pro-nsfq",
+  "name": "DeepSeek V4 Pro (NSFQ)",
+  "version": "4.0.1",
+  "author": "YourName",
+  "description": "Tự động dịch thuật cao cấp dựa trên ngữ cảnh và dữ liệu collect.",
+  "host": ["*://*.fanqienovel.com/*", "*://*.truyenfull.vn/*"], 
+  "js": "https://raw.githubusercontent.com/User/Repo/main/main.js",
+  "css": "https://raw.githubusercontent.com/User/Repo/main/style.css",
+  "settings": {
+    "api_key": "",
+    "mode": "NSFQ_Advanced"
+  }
+}
