@@ -4,11 +4,8 @@
   "version": "4.0.1",
   "author": "pencakhia1234-cmd",
   "description": "Tự động dịch thuật theo ngữ cảnh NSFQ.",
+  "type": "translate",
   "host": ["*://*.fanqienovel.com/*", "*://*.truyenfull.vn/*"], 
   "js": "https://raw.githubusercontent.com/pencakhia1234-cmd/Deepseek/main/main.js",
-  "css": "https://raw.githubusercontent.com/pencakhia1234-cmd/Deepseek/main/style.css",
-  "settings": {
-    "api_key": "",
-    "mode": "NSFQ_Advanced"
-  }
+  "css": "https://raw.githubusercontent.com/pencakhia1234-cmd/Deepseek/main/style.css"
 }
