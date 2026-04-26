@@ -1,0 +1,10 @@
+/* Làm cho khung dịch trông xịn hơn */
+.ds-translation-box {
+    background: rgba(10, 10, 30, 0.9); /* Màu tối huyền bí */
+    border: 1px solid #00ffcc; /* Viền xanh neon */
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 10px;
+    box-shadow: 0 4px 15px rgba(0, 255, 204, 0.3);
+    font-family: 'Segoe UI', sans-serif;
+}
